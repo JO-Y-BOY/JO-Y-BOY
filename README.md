@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**JO-Y-BOY/JO-Y-BOY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm JoyBoy <br>
+### Passionate Coder & Tech Enthusiast
+![Passionate coder and tech enthusiast](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif) 
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Proficient in various programming languages and technologies, with a focus on Cyber Security, Robotics, Programming, etc. Always eager to learn and collaborate on exciting projects that push the boundaries of technology."
+
+Feel free to tweak it to better reflect your unique skills and interests!
+
+## Support
+<a href="https://www.buymeacoffee.com/joy.boy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="189" alt="JoyBoy" /></a><br>
+
+<!-- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="JOY.BOY" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a Coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script> -->
+
+
+
+
+
