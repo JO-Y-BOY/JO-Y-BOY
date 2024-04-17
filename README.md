@@ -8,7 +8,7 @@
 
 
 Proficient in various programming languages and technologies, with a focus on Cyber Security, Robotics, Programming, etc. 
-Always eager to learn and collaborate on exciting projects that push the boundaries of technology."
+Always eager to learn and collaborate on exciting projects that push the boundaries of technology.
 
 Feel free to tweak it to better reflect your unique skills and interests!
 
